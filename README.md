@@ -8,7 +8,7 @@ Resumos e atividades de todas as aulas passadas no curso de DS do primeiro modul
 <ul>
 Introdução ao HTML
   
-| [Agenda 12](https://github.com/astrelatte/ETEC_dsi_/tree/main/Agenda12) |
+| [Atividade](https://github.com/astrelatte/ETEC_dsi_/tree/main/Agenda12) |
 | ----------------------- |
 
 </ul>
@@ -19,9 +19,9 @@ Introdução ao HTML
 <details>
 <summary>Agenda 13</summary>
 <ul>
-Introdução ao HTML
+HTML
   
-| [Agenda 13](https://github.com/astrelatte/ETEC_dsi_/tree/main/Agenda13) |
+| [Atividade](https://github.com/astrelatte/ETEC_dsi_/tree/main/Agenda13) |
 | ----------------------- |
 
 </ul>
