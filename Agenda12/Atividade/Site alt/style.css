@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&display=swap");
+
+body {
+    background-color: #e9e7e7;
+    text-align: center;
+  }
+
+
+  .image-container img {
+    max-width: 225px;
+    height: auto;
+    margin: auto;
+  }
+
+  .image-container {
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+    background-color: #fcf7f8;
+    border-radius: 20px;
+    text-align: center;
+    max-width: auto;
+  }
+
+  h1,
+  h2 {
+    color: #4b3a22;
+    margin-bottom: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 28px;
+  }
+  h2 {
+    font-size: 25px;
+    /* a fonte estava maior que o titulo entao tentei diminuir ela de alguma forma, funcionou... */
+  }
+
+
+  .hr-custom {
+    width: 200px;
+    border-bottom: none;
+  }
